@@ -13,7 +13,7 @@
     --second-bg-color: #131313;
     --text-color: white;
     /* --main-color:#00ffeaf3; */
-    --main-color:#d66400;
+    --main-color:rgb(2, 166, 255);
 }
 
 html{
@@ -410,11 +410,12 @@ span{
     line-height: 2;
 }
 .service-info p{
-    font-size: 1.6rem;
-    font-weight: 600;
+    font-size: 2rem;
+    font-weight: 300;
     max-height: 100px;
-    line-height: 1.7;
+    line-height: 2;
     margin: auto;
+    text-align: justify;
 }
 
 
